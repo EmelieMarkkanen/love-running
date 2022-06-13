@@ -262,6 +262,10 @@ footer {
 
 /* Form */
 
+#background-photo {
+    background: url(../images/african-american-woman-runner-tightening-shoe-lace-fitness-pe-people-healthy-lifestyle-66795521.jpg) no-repeat center center;
+}
+
 .form-section {
     clear: left;
     background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
